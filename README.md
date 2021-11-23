@@ -1,4 +1,4 @@
- 👋 Hi, I’m @FacuGra
+ 👋 Hi, I’m @facugra
 - 👀 I’m interested in Svelte and other modern web frameworks
 - 🌱 I’m currently learning GraphQL and expanding my Backend knowledge
 - 💞️ I’m looking to collaborate on FullStack projects
